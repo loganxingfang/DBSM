@@ -1,5 +1,5 @@
 !=================================================!
-! Distributed Blowing Snow Model                  !
+!   Distributed Blowing Snow Model                  !
 ! Richard Essery, University of Wales Aberystwyth !
 ! 17 July 2006                                    !
 !=================================================!
